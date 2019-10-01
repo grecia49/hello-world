@@ -6,3 +6,10 @@ I am taking a course on Coursera about Modern Art and yesterday I watched John F
 I would love to hear any feedback, recommendations or any comment you might want to add in here!
 
 So let's get started :)
+
+
+## hello, I have found more inspiration
+https://aiartists.org/
+I am impressed by how different neural networks can be developed to get different outputs. 
+I am impressed by the distorsion of reality that AI gives. I still don't know how it works, but I am guessing a neural network can be trained (and constrained) depending on the data you feed into it, then this might be why the artist's different works look a bit all the same. Could I train it to not be trained?
+I'm excited to see what will come out!
